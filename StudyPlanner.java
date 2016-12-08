@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 
 /**
  * The StudyPlanner class creates and maintains a daily schedule for each Day object by the hour given an input txt file
- * of events to manage in comma-delimited form
+ * of each day's events in comma-delimited form
  * Created by danayu on 12/5/16.
  */
 public class StudyPlanner {
@@ -97,7 +97,6 @@ public class StudyPlanner {
 
     }
 
-    //throw NULL POINTER EXCEPTION OR SOME KIND OF EXCEPTION HERE?
 
     /**
      * Main method for the StudyPlanner program. Takes an input file as input from the command line and instantiates
