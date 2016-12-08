@@ -1,0 +1,8 @@
+GP lecture,Monday,12-14
+GP exercises,Monday,14-16
+Danish lessons,Monday,18-20
+Programming Workshop,Tuesday,9-12
+Algorithms,Tuesday,14-15
+Discrete Math,Thursday,8-12
+Supervisor meeting,Thursday,14-15
+Orchestra practice,Monday,16-19
